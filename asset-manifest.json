@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JahanpoorKiani/test-project-develop.git/static/css/main.e1134703.css",
+    "main.js": "/JahanpoorKiani/test-project-develop.git/static/js/main.9e3600a4.js",
+    "static/media/IRANSansWeb.ttf": "/JahanpoorKiani/test-project-develop.git/static/media/IRANSansWeb.84fda3e85b2ec3885be1.ttf",
+    "index.html": "/JahanpoorKiani/test-project-develop.git/index.html",
+    "main.e1134703.css.map": "/JahanpoorKiani/test-project-develop.git/static/css/main.e1134703.css.map",
+    "main.9e3600a4.js.map": "/JahanpoorKiani/test-project-develop.git/static/js/main.9e3600a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1134703.css",
+    "static/js/main.9e3600a4.js"
+  ]
+}
