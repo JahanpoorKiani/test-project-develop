@@ -1,0 +1,64 @@
+.LoginView {
+  text-align: center;
+}
+
+.App {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Map-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+  flex-direction: row;
+}
+
+.row-container {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.myImage {
+  width: 60px;
+  height: 60px;
+  /*background-image: url("./icons/add-circle.png");*/
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
