@@ -1,0 +1,95 @@
+.LoginView {
+  text-align: center;
+}
+
+.App {
+  /*background-color: #282c34;*/
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Login-min-view {
+  background-color: #ffffff;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+  width: 440px;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+
+.Map-popup {
+  background-color: #ffffff;
+  min-height: 10vh;
+  min-width: 60vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+
+.Column-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.row-container {
+  background-color: #ffffff;
+  min-height: 10vh;
+  min-width: 60vw;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-right: 10px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-radius: 30px;
+}
+
+.row {
+  background-color: #ffffff;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  padding-right: 10px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.leaflet-container {
+  width: 100vw;
+  height: 100vh;
+  flex-direction: row;
+}
+
+.myImage {
+  width: 60px;
+  height: 60px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
